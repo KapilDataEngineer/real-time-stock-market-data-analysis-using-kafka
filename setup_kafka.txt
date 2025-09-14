@@ -1,0 +1,9 @@
+creating kafka project 
+
+zookeper-server-start.sh zookeper.properties---- for starting the zookeper 
+kafka-server-start.sh server.properties ---- for starting the kafka server
+kafka-topics.sh --create --topic demo_testing2 --bootstrap-server 20.34230932 ----creating the topic
+kafka-console-producer.sh --topic demo_testing2 --bootstrap-server 20.34230932 ---creating the producer
+kafka-console-consumer.sh --topic demo_testing2 --bootstrap-server 20.34230932  -----creating the consumer 
+
+
