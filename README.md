@@ -1,1 +1,1 @@
-This project is used to have general understanding and hands-on on Apache Kafka 
+This project explain general understanding and hands-on on Apache Kafka 
